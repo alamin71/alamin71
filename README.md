@@ -1,6 +1,6 @@
 ### Hi there 😊, I'm  Al-Amin
 #### Full Stack Developer
-![Full Stack Developer](https://media.licdn.com/dms/image/C5616AQGNpsNQ463HUA/profile-displaybackgroundimage-shrink_350_1400/0/1668503871819?e=1722470400&v=beta&t=VwaQz2cKkG0neKwdP2tm04PiTtp5vtt_OpcPy6XuV0s)
+
 
 I am a graduate student in Computer and Engineering from Dhaka International University. Passionate and motivated Fresher Full-Stack Developer with a strong foundation in HTML, CSS, JavaScript, React JS, Redux, Express JS, Next JS TypeScript, Node JS, MongoDB, PostgreSQL and SQL. Eager to contribute my creativity and problem-solving abilities to create engaging and user-friendly web experiences. Committed to continuous learning and staying up-to-date with the latest industry trends and technologies. Seeking opportunities to collaborate with talented teams and make a meaningful impact in the world of web development. Open to internships, freelance projects, and entry-level positions. Let's connect and explore how we can bring ideas to life!
 
