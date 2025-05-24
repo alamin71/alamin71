@@ -6,7 +6,7 @@ I am a graduate student in Computer and Engineering from Dhaka International Uni
 
 Skills: HTML / CSS/ JS / TypeScript / REACT / Next JS / Redux / MongoDB / Node JS / SQL / NoSQL
 
-- 🔭 I’m currently working on Upwork 
+- 🔭 I’m currently working on Backend Developer
 - 🌱 I’m currently learning Web Technology 
 - 💬 Ask me about Web Application 
 - 📫 How to reach me: Pls-01919123903
